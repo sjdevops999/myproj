@@ -6,16 +6,22 @@ this is git
 
 
 
+<<<<<<< Updated upstream
 this is satsh
 
 
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+this is sat
+>>>>>>> Stashed changes
 here the re connections
 =======
 
 this is test
+
+
 
 >>>>>>> Stashed changes
 =======

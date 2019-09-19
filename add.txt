@@ -5,6 +5,7 @@ hi
 add
 
 
+<<<<<<< Updated upstream
 
 line2
 
@@ -12,3 +13,6 @@ line2
 line 3
 
 
+=======
+one line 
+>>>>>>> Stashed changes
