@@ -11,9 +11,13 @@ this is satsh
 
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 here the re connections
 =======
 
 this is test
 
+>>>>>>> Stashed changes
+=======
+here the re connections
 >>>>>>> Stashed changes
