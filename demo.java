@@ -6,7 +6,4 @@ class mul()
 {
 mul();
 }
-class sub()
-{
-sub();
-}
+
